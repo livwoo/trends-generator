@@ -1,0 +1,5 @@
+streamlit==1.50.0
+google-api-python-client==2.197.0
+pytrends==4.9.2
+feedparser==6.0.12
+requests==2.32.5
